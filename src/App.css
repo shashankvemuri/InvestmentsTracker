@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+.button {
+  margin-top: 75px;
+  margin-bottom: 1px;
+}
+.table {
+  margin-left:auto; 
+  margin-right:auto;
+  margin-top: 100px;
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-size: large;
+  width: 500px;
+}
+.inputbox {
+  height : 25px;
+  font-size: medium;
+}
+.bottom {
+  position: absolute;
+  bottom: 0;
+  height: 20px;
+  width: 100%;
+}
